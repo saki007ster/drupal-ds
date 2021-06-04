@@ -1,0 +1,6 @@
+name: drupal-ds
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupal-ds
+  id: 9789033f-0c2a-4a9f-87aa-41d217f522b6
